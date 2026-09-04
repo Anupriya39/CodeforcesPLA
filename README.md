@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 13 |
+| 43 | 13 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (13)
 - [math](#math) (19)
 - [number theory](#number-theory) (6)
@@ -86,6 +86,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.java) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.java) |
