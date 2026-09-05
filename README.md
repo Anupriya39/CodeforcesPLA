@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 14 |
+| 45 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (9)
@@ -34,6 +34,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 
 ### bitmasks
 
