@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 17 |
+| 54 | 17 |
 
 ---
 
@@ -22,10 +22,10 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (18)
+- [greedy](#greedy) (19)
 - [implementation](#implementation) (14)
-- [math](#math) (24)
-- [number theory](#number-theory) (6)
+- [math](#math) (25)
+- [number theory](#number-theory) (7)
 - [sortings](#sortings) (6)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (2)
@@ -119,6 +119,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.java) |
@@ -161,6 +162,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.java) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
@@ -190,6 +192,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
