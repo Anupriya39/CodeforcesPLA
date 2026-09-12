@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 17 |
+| 58 | 17 |
 
 ---
 
@@ -14,18 +14,18 @@
 
 - [Uncategorized](#uncategorized) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (11)
+- [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (11)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [implementation](#implementation) (14)
-- [math](#math) (26)
-- [number theory](#number-theory) (8)
+- [math](#math) (27)
+- [number theory](#number-theory) (9)
 - [sortings](#sortings) (6)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (2)
@@ -51,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.java) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
@@ -89,6 +90,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.java) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
 
 ### dfs and similar
@@ -107,6 +109,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1373/B%20-%2001%20Game/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### geometry
@@ -119,6 +122,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
@@ -162,6 +166,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.java) |
@@ -193,6 +198,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
