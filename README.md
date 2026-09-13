@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 17 |
+| 59 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (1)
@@ -39,6 +39,7 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/C%20-%20101/solution.java) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.java) |
 
 ### bitmasks
 
