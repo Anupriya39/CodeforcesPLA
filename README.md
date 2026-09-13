@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 17 |
+| 60 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (1)
@@ -40,6 +40,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2259/C%20-%20101/solution.java) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.java) |
+| 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.java) |
 
 ### bitmasks
 
