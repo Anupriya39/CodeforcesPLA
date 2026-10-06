@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 19 |
+| 91 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (17)
 - [combinatorics](#combinatorics) (3)
@@ -22,10 +22,10 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (4)
 - [games](#games) (2)
-- [geometry](#geometry) (2)
+- [geometry](#geometry) (3)
 - [greedy](#greedy) (34)
-- [implementation](#implementation) (20)
-- [math](#math) (41)
+- [implementation](#implementation) (21)
+- [math](#math) (42)
 - [number theory](#number-theory) (13)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (15)
@@ -51,6 +51,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
+| 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.java) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.java) |
 
 ### bitmasks
@@ -150,6 +151,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
+| 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.java) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1869/B%20-%202D%20Traveling/solution.java) |
 
 ### greedy
@@ -210,6 +212,7 @@
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.java) |
+| 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.java) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
@@ -248,6 +251,7 @@
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
+| 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1853/A%20-%20Desorting/solution.java) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
