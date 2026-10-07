@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 19 |
+| 92 | 19 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (17)
+- [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (3)
@@ -28,9 +28,9 @@
 - [math](#math) (42)
 - [number theory](#number-theory) (13)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (15)
+- [sortings](#sortings) (16)
 - [strings](#strings) (9)
-- [two pointers](#two-pointers) (6)
+- [two pointers](#two-pointers) (7)
 
 ---
 
@@ -75,6 +75,7 @@
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.java) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.java) |
+| 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1853/A%20-%20Desorting/solution.java) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.java) |
@@ -300,6 +301,7 @@
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.java) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.java) |
+| 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.java) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.java) |
@@ -331,6 +333,7 @@
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
+| 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
