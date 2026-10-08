@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 92 | 19 |
+| 93 | 19 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (34)
 - [implementation](#implementation) (21)
-- [math](#math) (42)
-- [number theory](#number-theory) (13)
+- [math](#math) (43)
+- [number theory](#number-theory) (14)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (16)
 - [strings](#strings) (9)
@@ -246,6 +246,7 @@
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1814/A%20-%20Coins/solution.java) |
+| 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1834/A%20-%20Unit%20Array/solution.java) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.java) |
@@ -279,6 +280,7 @@
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.java) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
+| 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.java) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.java) |
