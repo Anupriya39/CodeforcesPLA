@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 100 | 19 |
+| 101 | 19 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (5)
-- [bitmasks](#bitmasks) (4)
+- [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (21)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (21)
+- [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (5)
@@ -28,7 +28,7 @@
 - [math](#math) (45)
 - [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (18)
+- [sortings](#sortings) (19)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (7)
 
@@ -60,6 +60,7 @@
 |---|---------|------------|----------|
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.java) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.java) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.java) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
 
@@ -107,6 +108,7 @@
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.java) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.java) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.java) |
@@ -319,6 +321,7 @@
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1312/B%20-%20Bogosort/solution.java) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
+| 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.java) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.java) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.java) |
