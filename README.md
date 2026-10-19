@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 103 | 19 |
+| 104 | 19 |
 
 ---
 
@@ -20,10 +20,10 @@
 - [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [games](#games) (2)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (42)
+- [greedy](#greedy) (43)
 - [implementation](#implementation) (22)
 - [math](#math) (46)
 - [number theory](#number-theory) (16)
@@ -147,6 +147,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
+| 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.java) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
@@ -178,6 +179,7 @@
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
+| 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.java) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.java) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
