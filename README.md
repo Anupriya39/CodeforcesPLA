@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 106 | 19 |
+| 107 | 20 |
 
 ---
 
@@ -15,21 +15,22 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (22)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (6)
 - [games](#games) (2)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (44)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (47)
 - [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (19)
 - [strings](#strings) (9)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
 
 ---
@@ -71,6 +72,7 @@
 |---|---------|------------|----------|
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.java) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.java) |
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1742/D%20-%20Coprime/solution.java) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.java) |
@@ -131,6 +133,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.java) |
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
@@ -223,6 +226,7 @@
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.java) |
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1624/B%20-%20Make%20AP/solution.java) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.java) |
@@ -360,6 +364,12 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
 
 ### two pointers
 
