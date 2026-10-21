@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 107 | 20 |
+| 108 | 20 |
 
 ---
 
@@ -15,20 +15,20 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [games](#games) (2)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (44)
-- [implementation](#implementation) (23)
+- [greedy](#greedy) (45)
+- [implementation](#implementation) (24)
 - [math](#math) (47)
 - [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (19)
+- [sortings](#sortings) (20)
 - [strings](#strings) (9)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
@@ -91,6 +91,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.java) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### combinatorics
@@ -154,6 +155,7 @@
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1883/C%20-%20Raspberries/solution.java) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 
 ### games
@@ -218,6 +220,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/C%20-%20Quests/solution.java) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 
 ### implementation
@@ -245,6 +248,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1873/C%20-%20Target%20Practice/solution.java) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
@@ -349,6 +353,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.java) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 
 ### strings
