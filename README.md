@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 113 | 20 |
+| 114 | 20 |
 
 ---
 
@@ -25,10 +25,10 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (48)
 - [implementation](#implementation) (26)
-- [math](#math) (50)
+- [math](#math) (51)
 - [number theory](#number-theory) (17)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (22)
+- [sortings](#sortings) (23)
 - [strings](#strings) (9)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (10)
@@ -290,6 +290,7 @@
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
+| 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
@@ -357,6 +358,7 @@
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.java) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.java) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.java) |
+| 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.java) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.java) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
