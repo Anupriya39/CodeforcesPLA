@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 114 | 20 |
+| 115 | 20 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (23)
-- [data structures](#data-structures) (7)
+- [constructive algorithms](#constructive-algorithms) (24)
+- [data structures](#data-structures) (8)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (7)
 - [games](#games) (2)
@@ -31,7 +31,7 @@
 - [sortings](#sortings) (23)
 - [strings](#strings) (9)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (10)
+- [two pointers](#two-pointers) (11)
 
 ---
 
@@ -120,6 +120,7 @@
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.java) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.java) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.java) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.java) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.java) |
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.java) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1831/B%20-%20Array%20merging/solution.java) |
@@ -140,6 +141,7 @@
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.java) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
@@ -403,6 +405,7 @@
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.java) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
