@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 119 | 20 |
+| 120 | 20 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (2)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (52)
-- [implementation](#implementation) (26)
+- [implementation](#implementation) (27)
 - [math](#math) (53)
 - [number theory](#number-theory) (17)
 - [shortest paths](#shortest-paths) (1)
@@ -249,6 +249,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
+| 1703E | [Mirror Grid](https://codeforces.com/contest/1703/problem/E) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1703/E%20-%20Mirror%20Grid/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.java) |
