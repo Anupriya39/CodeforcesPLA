@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 120 | 20 |
+| 121 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (8)
+- [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (3)
@@ -24,14 +24,14 @@
 - [games](#games) (2)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (52)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (53)
 - [number theory](#number-theory) (17)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (25)
 - [strings](#strings) (9)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (12)
+- [two pointers](#two-pointers) (13)
 
 ---
 
@@ -51,6 +51,7 @@
 |---|---------|------------|----------|
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
+| 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.java) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.java) |
 | 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1742/E%20-%20Scuza/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
@@ -249,6 +250,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
+| 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.java) |
 | 1703E | [Mirror Grid](https://codeforces.com/contest/1703/problem/E) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1703/E%20-%20Mirror%20Grid/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
@@ -414,6 +416,7 @@
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.java) |
+| 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.java) |
 | 1729D | [Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1729/D%20-%20Friends%20and%20the%20Restaurant/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
