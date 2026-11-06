@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 125 | 20 |
+| 127 | 20 |
 
 ---
 
@@ -15,21 +15,21 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (26)
+- [brute force](#brute-force) (27)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (25)
+- [constructive algorithms](#constructive-algorithms) (26)
 - [data structures](#data-structures) (10)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (7)
 - [games](#games) (2)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (56)
+- [greedy](#greedy) (57)
 - [implementation](#implementation) (28)
 - [math](#math) (55)
 - [number theory](#number-theory) (17)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (25)
-- [strings](#strings) (11)
+- [sortings](#sortings) (26)
+- [strings](#strings) (12)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (14)
 
@@ -78,6 +78,7 @@
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1380/A%20-%20Three%20Indices/solution.java) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.java) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.java) |
+| 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.java) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.java) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.java) |
 | 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.java) |
@@ -116,6 +117,7 @@
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1312/B%20-%20Bogosort/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
+| 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.java) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.java) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.java) |
 | 1635C | [Differential Sorting](https://codeforces.com/contest/1635/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1635/C%20-%20Differential%20Sorting/solution.java) |
@@ -196,6 +198,7 @@
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.java) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.java) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.java) |
@@ -376,6 +379,7 @@
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1312/B%20-%20Bogosort/solution.java) |
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.java) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.java) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.java) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.java) |
@@ -406,6 +410,7 @@
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
+| 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.java) |
 | 1582C | [Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1582/C%20-%20Grandma%20Capa%20Knits%20a%20Scarf/solution.java) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.java) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1606/A%20-%20AB%20Balance/solution.java) |
