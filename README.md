@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 130 | 21 |
+| 131 | 21 |
 
 ---
 
@@ -17,16 +17,16 @@
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (27)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (28)
+- [constructive algorithms](#constructive-algorithms) (29)
 - [data structures](#data-structures) (11)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (7)
 - [games](#games) (3)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (58)
+- [greedy](#greedy) (59)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (29)
-- [math](#math) (57)
+- [math](#math) (58)
 - [number theory](#number-theory) (17)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (26)
@@ -118,6 +118,7 @@
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1312/B%20-%20Bogosort/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
+| 1497B | [M-arrays](https://codeforces.com/contest/1497/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1497/B%20-%20M-arrays/solution.java) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
 | 1527B1 | [Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1527/B1%20-%20Palindrome%20Game%20(easy%20version)/solution.java) |
 | 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.java) |
@@ -203,6 +204,7 @@
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.java) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
+| 1497B | [M-arrays](https://codeforces.com/contest/1497/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1497/B%20-%20M-arrays/solution.java) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
 | 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
@@ -308,6 +310,7 @@
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.java) |
+| 1497B | [M-arrays](https://codeforces.com/contest/1497/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1497/B%20-%20M-arrays/solution.java) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1520/D%20-%20Same%20Differences/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.java) |
