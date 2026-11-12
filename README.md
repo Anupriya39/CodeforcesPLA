@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 132 | 21 |
+| 133 | 21 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (27)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (29)
+- [constructive algorithms](#constructive-algorithms) (30)
 - [data structures](#data-structures) (11)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (7)
 - [games](#games) (3)
 - [geometry](#geometry) (3)
@@ -117,6 +117,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1312/B%20-%20Bogosort/solution.java) |
+| 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.java) |
 | 1497B | [M-arrays](https://codeforces.com/contest/1497/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1497/B%20-%20M-arrays/solution.java) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
@@ -166,6 +167,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.java) |
 
 ### dp
