@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 134 | 21 |
+| 135 | 21 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (27)
-- [combinatorics](#combinatorics) (3)
+- [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (30)
 - [data structures](#data-structures) (11)
 - [dfs and similar](#dfs-and-similar) (2)
@@ -26,8 +26,8 @@
 - [greedy](#greedy) (59)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (29)
-- [math](#math) (60)
-- [number theory](#number-theory) (18)
+- [math](#math) (61)
+- [number theory](#number-theory) (19)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (26)
 - [strings](#strings) (12)
@@ -112,6 +112,7 @@
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
 
 ### constructive algorithms
 
@@ -367,6 +368,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.java) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/C%20-%20Quests/solution.java) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
 
 ### number theory
 
@@ -390,6 +392,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.java) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.java) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
 
 ### shortest paths
 
