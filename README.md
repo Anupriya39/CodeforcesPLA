@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 136 | 22 |
+| 137 | 22 |
 
 ---
 
@@ -18,16 +18,16 @@
 - [brute force](#brute-force) (28)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (30)
-- [data structures](#data-structures) (12)
+- [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (8)
 - [dsu](#dsu) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (60)
+- [greedy](#greedy) (61)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (29)
-- [math](#math) (61)
+- [math](#math) (62)
 - [number theory](#number-theory) (19)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (26)
@@ -166,6 +166,7 @@
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.java) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.java) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.java) |
+| 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 
@@ -273,6 +274,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/C%20-%20Quests/solution.java) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
+| 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 
@@ -380,6 +382,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.java) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1914/C%20-%20Quests/solution.java) |
+| 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/Anupriya39/CodeforcesPLA/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
 
 ### number theory
